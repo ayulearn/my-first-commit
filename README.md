@@ -14,6 +14,8 @@ Hope you configure your [user.name and use.email](https://github.com/ayulearn/gi
 
 
 ## STEPS
+
+for window this steps are also valid (use git bash) 
 ---
 ### 1. First of all check `git status` weather git is initialise in folder or not 
 
@@ -106,6 +108,9 @@ git log
 ![output](https://github.com/ayulearn/git-practice/blob/git-first-commit-ss/log.png)
 
 *Arrow mark text is the message you written during the commit command inside double quote you can change the message to during commit*
+
+To get all the commands used [click here](https://github.com/ayulearn/my-first-commit/blob/main/linux-command.txt)
+ 
 
 
 
