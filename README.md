@@ -110,6 +110,9 @@ git log
 *Arrow mark text is the message you written during the commit command inside double quote you can change the message to during commit*
 
 To get all the commands used [click here](https://github.com/ayulearn/my-first-commit/blob/main/linux-command.txt)
+
+to learn next step check [git on window](https://github.com/ayulearn/my-first-commit/blob/main/GIT%20ON%20WINDOW%20MACHINE.docx)
+                             👈 this file is useful for all the machines (mac,window,linux) but for linux you must have basic knowledge of linux commands
  
 
 
