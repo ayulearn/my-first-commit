@@ -1,0 +1,10 @@
+COMMAND USE TO MAKE FIRST COMMIT 
+
+touch my_first_commit.txt
+ls -l
+git status
+git add my_first_commit.txt
+git status
+git commit -m "my first commit"
+git status
+git log
