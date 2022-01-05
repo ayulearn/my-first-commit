@@ -15,7 +15,7 @@ Hope you configure your [user.name and use.email](https://github.com/ayulearn/gi
 
 ## STEPS
 
-for window this steps are also valid (use git bash) 
+This steps are also valid for window machine (use git bash) 
 ---
 ### 1. First of all check `git status` weather git is initialise in folder or not 
 
